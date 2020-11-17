@@ -1,0 +1,36 @@
+{
+  "name": "Mailer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "ejs": "^3.1.5",
+    "juice": "^7.0.0",
+    "moment": "^2.29.0",
+    "nodemailer": "^6.4.12",
+    "precss": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^14.11.2",
+    "@types/validator": "^13.1.0",
+    "@zerollup/ts-transform-paths": "^1.7.18",
+    "cross-env": "^7.0.2",
+    "ttypescript": "^1.5.10",
+    "typescript": "^3.9.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hokori23/Mailer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hokori23/Mailer/issues"
+  },
+  "homepage": "https://github.com/Hokori23/Mailer#readme"
+}
